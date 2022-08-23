@@ -3,7 +3,7 @@
 <ul>
 <li>This code running on 1905 port</li>
 <li>In this project, Java 17 version and Spring Boot 2.7.3 version is used.</li>
-<li>Click for the little video demo of project <a href="https://drive.google.com/drive/folders/12sZh3BbQh3lXGokN0bFHfIzfmOnW1rqK?usp=sharing">tıklayınız.</a></li>
+<li><a href="https://drive.google.com/drive/folders/12sZh3BbQh3lXGokN0bFHfIzfmOnW1rqK?usp=sharing">Click</a> for the little video demo of project</li>
 </ul>
 
 <br>
